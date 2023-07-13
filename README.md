@@ -11,6 +11,7 @@ NEW_RELIC_APP_NAME=<app name>
 # Run app
 
 npm i
+
 npm run dev
 
 # Hit end point a few times to send data
