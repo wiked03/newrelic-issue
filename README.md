@@ -2,18 +2,22 @@
 
 Example to demonstrate issue with APM
 
-# Create .env file with these values:
+## Create .env file with these values:
 
-NEW_RELIC_LICENSE_KEY=<api key>
+`NEW_RELIC_LICENSE_KEY=<api key>`
 
-NEW_RELIC_APP_NAME=<app name>
+`NEW_RELIC_APP_NAME=<app name>`
 
-# Run app
+## Run app
 
-npm i
+`npm i`
 
-npm run dev
+`npm run dev`
 
-# Hit end point a few times to send data
+## Hit end point a few times to send data
 
-curl http://localhost:3000/weird/looking/path
+`curl http://localhost:3000/weird/looking/path`
+
+## Example
+
+![What it looks in in APM](./newrelic-apm-issue3.png)
