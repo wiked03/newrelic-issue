@@ -2,6 +2,8 @@
 
 Example to demonstrate issue with APM
 
+Node version 18.16.0
+
 ## Create .env file with these values:
 
 `NEW_RELIC_LICENSE_KEY=<api key>`
