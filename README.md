@@ -5,6 +5,7 @@ Example to demonstrate issue with APM
 # Create .env file with these values:
 
 NEW_RELIC_LICENSE_KEY=<api key>
+
 NEW_RELIC_APP_NAME=<app name>
 
 # Run app
