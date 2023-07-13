@@ -13,7 +13,6 @@ NEW_RELIC_APP_NAME=<app name>
 npm i
 npm run dev
 
-# Hit end points a few times to send data
+# Hit end point a few times to send data
 
-curl http://localhost:3000/example/route/test
-curl http://localhost:3000/this/works/fine
+curl http://localhost:3000/weird/looking/path
